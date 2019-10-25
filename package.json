@@ -10,6 +10,6 @@
   "author": "",
   "license": "ISC",
   "bin": {
-    "pipe-to-dir": "./bin/pipe-to-dir",
+    "pipe-to-dir": "./bin/pipe-to-dir"
   }
 }
